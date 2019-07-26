@@ -1,0 +1,5 @@
+com:
+  name: zhangsan
+server:
+  port: 9999
+
